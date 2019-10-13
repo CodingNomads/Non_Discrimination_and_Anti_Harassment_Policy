@@ -1,4 +1,4 @@
-CodingNomads Non-Discrimination and Anti-Harassment Policy
+# CodingNomads Non-Discrimination and Anti-Harassment Policy
 
 ## INTENT
 
