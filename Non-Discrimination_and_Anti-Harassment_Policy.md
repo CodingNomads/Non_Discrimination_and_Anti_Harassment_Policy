@@ -1,4 +1,4 @@
-CodingNomads Non-Discrimination and Anti-Harassment Policy
+# CodingNomads Non-Discrimination and Anti-Harassment Policy
 
 ## INTENT
 
@@ -24,6 +24,42 @@ This policy forbids harassment based on gender regardless of whether the offensi
 
 Examples of gender-based harassment forbidden by this policy include (1) offensive sex-oriented verbal kidding, teasing or jokes; (2) repeated unwanted sexual flirtations, advances or propositions; (3) verbal abuse of a sexual nature; (4) graphic or degrading comments about an individual’s appearance or sexual activity; (5) offensive visual conduct, including leering, making sexual gestures, the display of offensive sexually suggestive objects or pictures, cartoons or posters; (6) unwelcome pressure for sexual activity; (7) offensively suggestive or obscene letters, notes or invitations; or (8) offensive physical contact such as patting, grabbing, pinching, or brushing against another’s body.
 
+## BULLYING
+
+No one likes a bully. Don't be a bully. 
+
+Bullying is unwanted, aggressive behavior that involves a real or perceived power imbalance. The behavior is repeated, or has the potential to be repeated, over time. Both those who are bullied and who bully others may have serious, lasting problems.
+
+In order to be considered bullying, the behavior must be aggressive and include:
+
+- An Imbalance of Power: persons who bully use their power—such as physical strength, access to embarrassing information, or popularity—to control or harm others. Power imbalances can change over time and in different situations, even if they involve the same people.
+- Repetition: Bullying behaviors happen more than once or have the potential to happen more than once.
+- Bullying includes actions such as making threats, spreading rumors, attacking someone physically or verbally, and excluding someone from a group on purpose.
+
+### Types of Bullying
+
+Verbal bullying is saying or writing mean things. Verbal bullying includes:
+- Teasing
+- Name-calling
+- Inappropriate sexual comments
+- Taunting
+- Threatening to cause harm
+
+Social bullying, sometimes referred to as relational bullying, involves hurting someone’s reputation or relationships. Social bullying includes:
+- Leaving someone out on purpose
+- Telling other children not to be friends with someone
+- Spreading rumors about someone
+- Embarrassing someone in public
+
+Physical bullying involves hurting a person’s body or possessions. Physical bullying includes:
+- Hitting/kicking/pinching
+- Spitting
+- Tripping/pushing
+- Taking or breaking someone’s things
+- Making mean or rude hand gestures
+
+CodingNomads has a zero-tolerance policy in regards to bullying. Don't be a bully. CodingNomads reserves the right to terminate the employment or course registration status of anyone who is found to be bullying anyone associated to CodingNomads.
+
 ## REPORTING PROCEDURES
 
 Any employee who believes he or she has experienced or witnessed any conduct that is in violation of this policy should report that concern to Ryan & Kim Desmond immediately. This policy does not require reporting harassment to any individual who is creating the harassment.
@@ -42,7 +78,12 @@ CodingNomads will not tolerate any harassment or discrimination in violation of 
 
 Retaliatory treatment of any employee for reporting discrimination, harassment or other prohibited behavior or for cooperating in a harassment investigation is strictly forbidden. All employees, contractors or students who experience or witness any conduct they believe to be retaliatory should immediately report such conduct to Ryan & Kim Desmond.
 
+## MONETARY IMPLICATIONS FOR TERMINATED EMPLOYEES AND EXPELLED STUDENTS
+
+Employees who are terminated for violating this policy will receive no further compensation from CodingNomads whatsoever beyond the hours already worked. 
+
+Students who are expelled from any CodingNomads course for violating this policy will not receive any form of refund.
+
 ## A BETTER FUTURE
 
-Together, let us build a better future. One where all individuals feel safe, secure, comfortable and productive at all times in their workplace and place of study. 
-
+Together, let us build a better future. One where all individuals feel safe, secure, comfortable and productive at all times in their workplace and place of study. It is in ouw hands, and the time is now. 
