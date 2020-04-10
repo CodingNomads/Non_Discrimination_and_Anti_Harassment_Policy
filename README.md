@@ -86,4 +86,4 @@ Students who are expelled from any CodingNomads course for violating this policy
 
 ## A BETTER FUTURE
 
-Together, let us build a better future. One where all individuals feel safe, secure, comfortable and productive at all times in their workplace and place of study. It is in ouw hands, and the time is now. 
+Together, let us build a better future. One where all individuals feel safe, secure, comfortable and productive at all times in their workplace and place of study. It is in our hands, and the time is now. 
